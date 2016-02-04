@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.makeramen.roundedimageview.RoundedImageView app:layout_width="-2" app:layout_height="-2" app:scaleType="6" app:adjustViewBounds="true" app:riv_corner_radius="5dp" app:riv_mutate_background="true" />

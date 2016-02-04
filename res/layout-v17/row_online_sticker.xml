@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="0x7f020171" android:padding="4dp" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="0x7f100257" android:layout_width="64dp" android:layout_height="64dp" android:src="0x7f020100" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+    <RelativeLayout android:layout_gravity="11" android:orientation="1" android:layout_width="0dp" android:layout_height="64dp" android:layout_marginLeft="12dp" android:layout_weight="1.0" android:layout_marginStart="8dp">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="16sp" android:textStyle="1" android:textColor="0x7f0f0040" android:gravity="11" android:id="0x7f100258" android:layout_width="-2" android:layout_height="-2" android:minHeight="24dp" android:hint="Name" android:singleLine="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="13sp" android:textColor="0x7f0f004e" android:id="0x7f100259" android:background="0x7f020062" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="4dp" android:layout_marginBottom="4dp" android:text="0x7f090207" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <ImageView android:layout_gravity="10" android:id="0x7f10025a" android:padding="5dp" android:focusable="false" android:clickable="false" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginRight="5dp" android:src="0x7f0201ae" />
+</LinearLayout>

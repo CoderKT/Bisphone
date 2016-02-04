@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="0x7f0f0033" android:layout_width="-1" android:layout_height="-1">
+    <app.galley.SquareImageView android:id="0x7f10023f" android:layout_width="100dp" android:layout_height="100dp" android:scaleType="6" />
+    <ImageView android:id="0x7f100240" android:background="0x7f0200c8" android:padding="5dp" android:layout_width="24dp" android:layout_height="24dp" android:layout_margin="8dp" android:src="0x7f020141" android:layout_alignParentRight="true" />
+    <View android:id="0x7f100241" android:background="0x7f0f002a" android:layout_width="-1" android:layout_height="-1" />
+</RelativeLayout>

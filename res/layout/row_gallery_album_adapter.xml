@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="#aaa" android:layout_width="-1" android:layout_height="200dp">
+    <RelativeLayout android:gravity="11" android:layout_gravity="11" android:orientation="0" android:layout_width="170dp" android:layout_height="150dp">
+        <ImageView android:id="0x7f10023a" android:background="0x7f0200c7" android:padding="3dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="30dp" android:adjustViewBounds="true" android:maxWidth="90dp" android:maxHeight="90dp" android:cropToPadding="true" />
+        <ImageView android:id="0x7f10023b" android:background="0x7f0200c7" android:padding="3dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginTop="15dp" android:adjustViewBounds="true" android:maxWidth="90dp" android:maxHeight="90dp" android:cropToPadding="true" />
+        <ImageView android:id="0x7f10023c" android:background="0x7f0200c7" android:padding="3dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="40dp" android:layout_marginTop="30dp" android:scaleType="3" android:adjustViewBounds="true" android:maxWidth="90dp" android:maxHeight="90dp" android:cropToPadding="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="10" android:layout_gravity="11" android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="5dp">
+        <TextView android:textSize="17sp" android:textStyle="1" android:textColor="0x106000c" android:id="0x7f10023d" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="5dp" android:text="folder_name" />
+        <TextView android:textColor="0x106000c" android:id="0x7f10023e" android:layout_width="-2" android:layout_height="-2" android:text="number Images" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </LinearLayout>
+</LinearLayout>

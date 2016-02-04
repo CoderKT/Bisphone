@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:id="0x7f100214" android:background="0x7f020171" android:padding="4dp" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false">
+    <include android:layout_gravity="10" android:id="0x7f10006c" android:layout_width="64dp" android:layout_height="64dp" android:layout_marginRight="4dp" android:layout_marginEnd="4dp" layout="0x7f030046" />
+    <LinearLayout android:orientation="1" android:paddingTop="4dp" android:layout_width="0dp" android:layout_height="-2" android:minHeight="64dp" android:layout_weight="1.0">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="16sp" android:textStyle="1" android:id="0x7f10021b" android:layout_width="-2" android:layout_height="-2" android:minHeight="20dp" android:text="0x7f090091" android:singleLine="true" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12sp" android:textColor="0x7f0f0040" android:gravity="10" android:id="0x7f10021c" android:paddingLeft="1dp" android:paddingRight="1dp" android:layout_width="-2" android:layout_height="-1" android:minHeight="40dp" android:text="0x7f090140" android:maxLines="2" android:maxLength="60" android:lineSpacingMultiplier="1.2" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="10" android:orientation="1" android:paddingTop="4dp" android:layout_width="-2" android:layout_height="64dp" android:layout_marginLeft="4dp" android:minWidth="64dp" android:layout_marginStart="4dp">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12dp" android:textColor="0x7f0f0040" android:gravity="11" android:layout_gravity="11" android:id="0x7f10021d" android:paddingRight="2dp" android:layout_width="-2" android:layout_height="20dp" android:text="0x7f090137" android:singleLine="true" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12dp" android:textStyle="1" android:textColor="0x106000b" android:gravity="11" android:layout_gravity="5" android:id="0x7f10021e" android:background="0x7f020060" android:paddingLeft="3dp" android:paddingRight="3dp" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginRight="22dp" android:minWidth="20dp" android:minHeight="20dp" android:text="0x7f090146" />
+    </LinearLayout>
+</LinearLayout>

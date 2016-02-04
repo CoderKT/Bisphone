@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:id="0x1020000" android:drawable="0x7f020055" />
+    <item android:id="0x102000d">
+        <clip android:drawable="0x7f020054" />
+    </item>
+</layer-list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <View android:id="@id/sb__divider" android:layout_width="-1" android:layout_height="3dp" />
+    <LinearLayout android:id="@id/sb__inner" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:ellipsize="3" android:id="@id/sb__text" android:focusable="true" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" style="0x7f0d00c2" />
+        <TextView android:gravity="5" android:layout_gravity="10" android:id="@id/sb__action" android:focusable="true" android:layout_width="-2" android:layout_height="-2" style="0x7f0d0078" />
+    </LinearLayout>
+</merge>

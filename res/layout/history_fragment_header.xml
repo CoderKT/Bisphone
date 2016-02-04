@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="@styleable/StickyListHeadersListView_android_scrollbarStyle" android:padding="10dp" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="11" android:orientation="0" android:layout_width="-1" android:layout_height="30dp" android:weightSum="10.0">
+        <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0f005e" android:gravity="11" android:id="0x7f1001b9" android:background="0x7f02006b" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f09010c" android:layout_weight="4.0" />
+        <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0f005c" android:gravity="11" android:id="0x7f1001ba" android:background="0x7f02004f" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f090063" android:layout_weight="4.0" />
+    </LinearLayout>
+</LinearLayout>

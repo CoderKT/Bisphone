@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="-1">
+    <ViewFlipper android:id="0x7f1000ed" android:layout_width="-1" android:layout_height="-1">
+        <GridView android:id="0x7f1000ee" android:background="0x7f0f004e" android:padding="10dp" android:layout_width="-1" android:layout_height="-1" android:horizontalSpacing="5dp" android:verticalSpacing="5dp" android:numColumns="3" />
+        <RelativeLayout android:orientation="1" android:id="0x7f1000ef" android:layout_width="-1" android:layout_height="-1">
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+                <include android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginRight="5dp" layout="0x7f030086" />
+                <include android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="10dp" layout="0x7f03008c" />
+            </LinearLayout>
+            <TextView android:textColor="0x7f0f009b" android:gravity="11" android:id="0x7f1000f0" android:paddingBottom="20dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="20dp" android:text="0x7f090279" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+    </ViewFlipper>
+</LinearLayout>

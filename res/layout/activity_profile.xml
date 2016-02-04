@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="1" android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <ImageView android:id="0x7f10006c" android:layout_width="-1" android:layout_height="300dp" android:src="0x7f02005c" android:scaleType="6" />
+        <TextView android:textSize="13sp" android:textColor="0x7f0f008a" android:gravity="10" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginTop="16dp" android:layout_marginRight="8dp" android:layout_marginBottom="2dp" android:text="0x7f090191" />
+        <LinearLayout android:orientation="0" android:background="0x7f020168" android:layout_width="-1" android:layout_height="44dp" android:layout_marginLeft="1dp" android:layout_marginRight="1dp">
+            <EditText android:textSize="15sp" android:textStyle="1" android:textColor="0x7f0f009b" android:ellipsize="3" android:gravity="800013" android:id="0x7f1000d6" android:background="0x106000d" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:maxLines="1" android:singleLine="true" android:maxLength="20" android:layout_weight="1.0" android:imeOptions="10000000" android:textCursorDrawable="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+            <ImageView android:layout_gravity="11" android:id="0x7f1000d7" android:padding="6dp" android:layout_width="44dp" android:layout_height="44dp" android:layout_marginRight="8dp" android:src="0x7f02011c" />
+        </LinearLayout>
+        <TextView android:textSize="13sp" android:textColor="0x7f0f008a" android:gravity="10" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginTop="12dp" android:layout_marginRight="8dp" android:layout_marginBottom="2dp" android:text="0x7f0901fc" />
+        <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0f009b" android:gravity="10" android:id="0x7f1000d8" android:background="0x7f020168" android:paddingLeft="8dp" android:paddingRight="8dp" android:layout_width="-1" android:layout_height="44dp" android:layout_marginLeft="1dp" android:layout_marginRight="1dp" />
+    </LinearLayout>
+</ScrollView>

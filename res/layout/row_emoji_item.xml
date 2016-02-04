@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="0x7f0f00a1" android:layout_width="-1" android:layout_height="-2">
+    <app.galley.SquareImageView android:id="0x7f100236" android:layout_width="-1" android:layout_height="-1" android:scaleType="7" />
+</RelativeLayout>

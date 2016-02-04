@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="0x7f0f0037" android:layout_width="-1" android:layout_height="20dp">
+    <TextView android:textStyle="1" android:textColor="0x7f0f0039" android:layout_gravity="10" android:id="0x7f100129" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="16dp" android:text="Hodor" android:capitalize="2" />
+</FrameLayout>

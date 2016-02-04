@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.makeramen.roundedimageview.RoundedImageView app:id="0x7f10006c" app:layout_width="-2" app:layout_height="-2" app:src="0x7f020058" app:scaleType="6" app:riv_corner_radius="8.75dp" app:riv_border_width="1dp" app:riv_border_color="0x7f0f0047" app:riv_mutate_background="true" app:riv_oval="false" />

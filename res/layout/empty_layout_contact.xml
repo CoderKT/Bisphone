@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="11" android:layout_gravity="11" android:orientation="1" android:id="0x7f10013f" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="16dp" android:layout_marginRight="16dp">
+        <ImageView android:id="0x7f10013e" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c4" android:onClick="showInviteDialog" />
+        <TextView android:textAppearance="@*android:style/TextAppearance.Small" android:textSize="12sp" android:gravity="11" android:id="0x7f100140" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="8dp" android:text="0x7f090151" android:onClick="showInviteDialog" android:alpha="0.8" />
+    </LinearLayout>
+</FrameLayout>

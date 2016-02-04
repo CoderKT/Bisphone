@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <ImageView android:layout_gravity="11" android:id="0x7f10013e" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c5" />
+</FrameLayout>

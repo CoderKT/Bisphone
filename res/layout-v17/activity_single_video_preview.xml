@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:background="0x7f0f0028" android:layout_width="-1" android:layout_height="-1">
+    <app.common.CustomVideoView android:id="0x7f100116" android:layout_width="-1" android:layout_height="-1" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <ImageView android:id="0x7f100117" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020107" android:layout_centerInParent="true" android:alpha="0.8" />
+    <TextView android:textSize="16sp" android:textColor="0x7f0f004e" android:gravity="11" android:id="0x7f100118" android:background="0x7f0f002d" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_above="0x7f100119" android:lineSpacingMultiplier="1.2" />
+    <LinearLayout android:orientation="0" android:id="0x7f10011a" android:background="0x7f0f002d" android:layout_width="-1" android:layout_height="-2" android:layout_above="0x7f100119">
+        <app.galley.ActionEditText android:enabled="false" android:textSize="16sp" android:textColor="0x7f0f004e" android:id="0x7f10011b" android:padding="5dp" android:layout_width="0dp" android:layout_height="-2" android:minHeight="32dp" android:hint="0x7f090049" android:maxLines="3" android:maxLength="140" android:layout_weight="1.0" android:lineSpacingMultiplier="1.2" android:inputType="20001" android:imeOptions="6" />
+        <ImageView android:layout_gravity="50" android:id="0x7f10011c" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="8dp" android:src="0x7f02011b" android:layout_marginEnd="8dp" />
+    </LinearLayout>
+    <SeekBar android:id="0x7f100119" android:background="0x7f0f002d" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true" />
+</RelativeLayout>

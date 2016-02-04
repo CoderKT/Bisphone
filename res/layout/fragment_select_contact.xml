@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="0x7f100197" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0c0019" android:layout_marginRight="0x7f0c0019">
+        <EditText android:textSize="18sp" android:ellipsize="3" android:gravity="11" android:id="0x7f100198" android:layout_width="-1" android:layout_height="0x7f0c0052" android:hint="0x7f0901a3" android:singleLine="true" android:imeOptions="10000000" />
+        <ImageView android:id="0x7f100199" android:layout_width="24dp" android:layout_height="48dp" android:layout_marginRight="4dp" android:src="0x7f0200d3" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ListView android:id="0x7f10019a" android:scrollbars="0" android:clickable="true" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f10019b" android:layout_below="0x7f100197" />
+    <HorizontalScrollView android:id="0x7f10019b" android:background="0x7f020088" android:padding="10dp" android:visibility="2" android:scrollbars="0" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <LinearLayout android:gravity="11" android:layout_gravity="10" android:orientation="0" android:id="0x7f10019c" android:layout_width="-2" android:layout_height="-1" />
+    </HorizontalScrollView>
+</RelativeLayout>

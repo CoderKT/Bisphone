@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <com.edmodo.cropper.CropImageView android:id="0x7f10012a" android:layout_width="-1" android:layout_height="-1" android:scaleType="3" />
+    <LinearLayout android:orientation="0" android:id="0x7f10012b" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="40dp" android:layout_alignParentBottom="true">
+        <FrameLayout android:id="0x7f10012c" android:background="0x7f0200ae" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginRight="12dp" android:layout_weight="1.0" android:alpha="0.6">
+            <TextView android:textSize="20sp" android:textColor="0x7f0f0031" android:gravity="11" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:text="0x7f09007c" android:shadowColor="0x7f0f0028" android:drawableLeft="0x7f02008a" android:drawablePadding="10dp" />
+        </FrameLayout>
+        <FrameLayout android:id="0x7f10012d" android:background="0x7f0200ae" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="12dp" android:layout_marginRight="10dp" android:layout_weight="1.0" android:alpha="0.6">
+            <TextView android:textSize="20sp" android:textColor="0x7f0f0031" android:gravity="11" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0900ae" android:shadowColor="0x7f0f0028" android:drawableLeft="0x7f0200bf" android:drawablePadding="10dp" />
+        </FrameLayout>
+    </LinearLayout>
+</RelativeLayout>

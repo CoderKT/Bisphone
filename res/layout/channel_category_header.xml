@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <app.view.CustomViewPager android:id="0x7f100125" android:layout_width="-1" android:layout_height="120dp" />
+    <TextView android:textSize="17sp" android:textColor="0x7f0f0024" android:gravity="13" android:id="0x7f100126" android:background="0x7f0f0037" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="-1" android:layout_height="40dp" android:text="0x7f09007d" />
+</LinearLayout>

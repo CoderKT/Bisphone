@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:background="0x7f0f0028" android:layout_width="-1" android:layout_height="-1">
+    <com.edmodo.cropper.CropImageView android:id="0x7f100115" android:layout_width="-1" android:layout_height="-1" android:layout_margin="30dp" android:scaleType="3" android:layout_centerInParent="true" />
+</RelativeLayout>

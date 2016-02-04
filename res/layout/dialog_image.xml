@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="11" android:background="0x7f0f00a1" android:layout_width="240dp" android:layout_height="240dp">
+    <com.makeramen.roundedimageview.RoundedImageView app:id="0x7f100137" app:layout_width="-1" app:layout_height="-1" app:src="0x7f020058" app:scaleType="6" app:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" app:riv_corner_radius="20dp" app:riv_mutate_background="true" app:riv_oval="false" />
+</FrameLayout>

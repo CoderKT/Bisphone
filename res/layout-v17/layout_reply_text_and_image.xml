@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:id="0x7f1001c2" android:padding="2dp" android:layout_width="-2" android:layout_height="-2">
+    <View android:id="0x7f1001c3" android:background="0x7f0f001f" android:layout_width="2dp" android:layout_height="36dp" android:layout_marginTop="4dp" />
+    <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="44dp" android:layout_toRightOf="0x7f1001c3" android:layout_toEndOf="0x7f1001c3">
+        <include android:id="0x7f1001be" android:visibility="0" android:layout_width="36dp" android:layout_height="36dp" android:layout_marginLeft="4dp" android:layout_marginTop="4dp" android:layout_marginBottom="4dp" android:layout_marginStart="4dp" layout="0x7f0300a2" />
+        <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="4dp" android:layout_marginBottom="4dp">
+            <TextView android:textSize="13sp" android:textStyle="1" android:textColor="0x7f0f001f" android:gravity="800033" android:id="0x7f1001bf" android:layout_width="-1" android:layout_height="0dp" android:layout_marginLeft="7dp" android:layout_marginRight="7dp" android:text="replied: " android:singleLine="true" android:layout_weight="1.0" />
+            <TextView android:textSize="12sp" android:textColor="0x7f0f0020" android:gravity="800033" android:id="0x7f1001c0" android:layout_width="-1" android:layout_height="0dp" android:layout_marginLeft="7dp" android:layout_marginRight="7dp" android:text="message text" android:singleLine="true" android:maxLength="50" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

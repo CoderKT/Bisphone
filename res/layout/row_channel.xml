@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="0x7f020171" android:padding="4dp" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="0" android:id="0x7f10021f" android:layout_width="-1" android:layout_height="-2">
+        <include android:layout_gravity="10" android:id="0x7f10006c" android:layout_width="64dp" android:layout_height="64dp" android:layout_marginRight="4dp" layout="0x7f030046" />
+        <LinearLayout android:gravity="10" android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:minHeight="64dp" android:layout_weight="1.0">
+            <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="18sp" android:textStyle="1" android:textColor="0x7f0f0040" android:id="0x7f100220" android:layout_width="-2" android:layout_height="-2" android:text="0x7f090091" android:singleLine="true" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="10" android:orientation="1" android:id="0x7f100221" android:paddingTop="4dp" android:layout_width="-2" android:layout_height="64dp" android:layout_marginLeft="4dp" android:minWidth="64dp">
+            <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12dp" android:textColor="0x7f0f0040" android:gravity="11" android:layout_gravity="11" android:id="0x7f100222" android:paddingRight="2dp" android:layout_width="-2" android:layout_height="20dp" android:text="0x7f090137" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12dp" android:textStyle="1" android:textColor="0x106000b" android:gravity="11" android:layout_gravity="5" android:id="0x7f100223" android:background="0x7f020060" android:paddingLeft="3dp" android:paddingRight="3dp" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginRight="22dp" android:minWidth="20dp" android:minHeight="20dp" android:text="0x7f090146" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:id="0x7f100224" android:visibility="1" android:layout_width="-1" android:layout_height="-1">
+        <Button android:id="0x7f100225" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f09007c" android:layout_weight="1.0" style="?unknown_attr_ref: 101032f" />
+        <Button android:id="0x7f100226" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f09009c" android:layout_weight="1.0" style="?unknown_attr_ref: 101032f" />
+        <Button android:id="0x7f100227" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f090085" android:layout_weight="1.0" style="?unknown_attr_ref: 101032f" />
+    </LinearLayout>
+</FrameLayout>

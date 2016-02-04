@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f1001e5" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textSize="20sp" android:textStyle="1" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:text="0x7f090155" />
+        <ImageView android:id="0x7f1001e6" android:padding="20dp" android:layout_width="-1" android:layout_height="-2" android:src="0x7f020108" />
+    </LinearLayout>
+</LinearLayout>

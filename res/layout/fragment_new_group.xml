@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <app.view.CustomRecycleView android:id="0x7f10017c" android:visibility="0" android:scrollbars="200" android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="5dp" />
+    <ImageView android:id="0x7f10017d" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c5" android:layout_centerInParent="true" />
+    <ProgressBar android:id="0x7f10017e" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+</RelativeLayout>

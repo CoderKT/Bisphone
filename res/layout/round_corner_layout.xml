@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:id="@id/round_corner_progress_background" android:background="#ff5f5f5f" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="0" android:id="@id/round_corner_progress_secondary_progress" android:background="#7f7f7f7f" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="0dp" android:layout_marginTop="0dp" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <LinearLayout android:orientation="0" android:id="@id/round_corner_progress_progress" android:background="#ff7f7f7f" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="0dp" android:layout_marginTop="0dp" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    </RelativeLayout> />

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f1000ec" android:descendantFocusability="1" android:layout_width="-1" android:layout_height="-1">
+    <app.view.CustomViewPager android:id="0x7f1000a6" android:layout_width="-1" android:layout_height="-1" />
+</LinearLayout>

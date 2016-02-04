@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.ortiz.touch.TouchImageView android:id="0x7f100115" android:layout_width="-1" android:layout_height="-1" android:scaleType="3" android:layout_centerInParent="true" />
+    <ProgressBar android:id="0x7f10018d" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" android:layout_centerInParent="true" />
+    <ImageView android:id="0x7f10018e" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020106" android:layout_centerInParent="true" />
+    <TextView android:textSize="16sp" android:textColor="0x7f0f004e" android:gravity="11" android:id="0x7f10018f" android:background="0x7f0f002d" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true" android:lineSpacingMultiplier="1.2" />
+    <LinearLayout android:orientation="0" android:id="0x7f10018b" android:background="0x7f0f002d" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <app.galley.ActionEditText android:enabled="false" android:textSize="16sp" android:textColor="0x7f0f004e" android:id="0x7f100190" android:padding="5dp" android:layout_width="0dp" android:layout_height="-2" android:minHeight="32dp" android:hint="0x7f090049" android:maxLines="3" android:maxLength="140" android:layout_weight="1.0" android:lineSpacingMultiplier="1.2" android:inputType="20001" android:imeOptions="6" />
+        <ImageView android:layout_gravity="11" android:id="0x7f10011c" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="8dp" android:src="0x7f02011b" android:layout_marginEnd="8dp" />
+    </LinearLayout>
+</RelativeLayout>

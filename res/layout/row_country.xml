@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="0x7f020171" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp">
+    <FrameLayout android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:gravity="10" android:layout_gravity="800003" android:id="0x7f100234" android:layout_width="-2" android:layout_height="-1" android:hint="Country Name" android:singleLine="true" />
+    </FrameLayout>
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:gravity="11" android:layout_gravity="800005" android:id="0x7f100235" android:layout_width="-2" android:layout_height="-1" android:minWidth="64dp" android:hint="+1234" />
+</LinearLayout>

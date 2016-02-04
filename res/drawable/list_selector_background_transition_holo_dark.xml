@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition>
+    <item android:drawable="0x7f02014a" />
+    <item android:drawable="0x7f020148" />
+</transition>

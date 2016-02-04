@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <objectAnimator android:duration="0x7f0e0004" android:valueFrom="#ffffff" android:valueTo="#000000" android:propertyName="backgroundColor" />
+</set>

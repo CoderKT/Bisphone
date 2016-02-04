@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:id="0x7f100214" android:background="0x7f0f004e" android:padding="4dp" android:layout_width="-1" android:layout_height="80dp" android:baselineAligned="false">
+    <include android:layout_gravity="10" android:id="0x7f10022b" android:background="0x7f0f0037" android:layout_width="51dp" android:layout_height="51dp" android:layout_marginRight="4dp" layout="0x7f030044" />
+    <LinearLayout android:gravity="10" android:orientation="1" android:layout_width="0dp" android:layout_height="-1" android:layout_marginRight="10dp" android:minHeight="64dp" android:layout_weight="1.0">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="18sp" android:textColor="0x7f0f0025" android:gravity="50" android:id="0x7f10022c" android:paddingBottom="2dp" android:layout_width="-2" android:layout_height="0dp" android:text="0x7f090091" android:singleLine="true" android:layout_weight="1.0" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12sp" android:textColor="0x7f0f0025" android:gravity="30" android:id="0x7f10022d" android:paddingTop="2dp" android:paddingRight="15dp" android:layout_width="-2" android:layout_height="0dp" android:minHeight="40dp" android:text="0x7f090140" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:lineSpacingMultiplier="1.2" />
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="11" android:orientation="0" android:id="0x7f10022e" android:visibility="2" android:layout_width="80dp" android:layout_height="30dp" android:layout_marginRight="5dp" android:layout_alignParentRight="true">
+        <ProgressBar android:id="0x7f10022f" android:visibility="0" android:layout_width="24dp" android:layout_height="24dp" android:layout_centerInParent="true" />
+        <TextView android:textSize="13dp" android:textColor="0x7f0f0025" android:gravity="11" android:layout_gravity="11" android:id="0x7f100230" android:layout_width="-1" android:layout_height="-1" android:text="0x7f090080" />
+    </RelativeLayout>
+</LinearLayout>

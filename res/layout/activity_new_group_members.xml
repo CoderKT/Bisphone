@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:background="0x7f0f0050" android:paddingLeft="8dp" android:paddingRight="8dp" android:clickable="true" android:layout_width="-1" android:layout_height="64dp">
+        <AutoCompleteTextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="20sp" android:textColor="0x7f0f0041" android:gravity="11" android:id="0x7f1000d2" android:background="0x7f0f00a1" android:paddingRight="48dp" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f0900c9" android:singleLine="true" android:drawableLeft="0x7f0200cc" android:drawablePadding="12dp" android:layout_centerVertical="true" android:imeOptions="10000000" />
+        <ImageButton android:id="0x7f1000d3" android:background="0x7f0201ba" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f0200ca" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ListView android:id="0x7f1000d4" android:clickable="true" android:layout_width="-1" android:layout_height="-1" />
+</LinearLayout>

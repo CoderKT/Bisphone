@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="0x7f0f004d" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp">
+        <ImageView android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="16dp" android:src="0x7f02004b" android:contentDescription="0x7f090188" />
+        <ImageView android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="8dp" android:src="0x7f02004c" android:contentDescription="0x7f090188" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="15sp" android:textStyle="1" android:layout_gravity="1" android:id="0x7f10005e" android:layout_width="-2" android:layout_height="-2" android:text="0x7f090036" />
+    </LinearLayout>
+    <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="24dp" android:layout_alignParentBottom="true">
+        <TextView android:textSize="12sp" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="4dp" android:text="0x7f090035" />
+        <TextView android:textSize="12sp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f090192" />
+    </LinearLayout>
+</RelativeLayout>

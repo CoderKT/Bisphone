@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout app:layout_width="-1" app:layout_height="-1">
+    <parallaxedScrollView.ParallaxScrollView app:id="0x7f10007b" app:background="0x7f0f004e" app:layout_width="-1" app:layout_height="-1" app:layout_above="0x7f10007c" app:parallax_factor="1.9" app:parallax_views_num="1">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+            <RelativeLayout android:background="#000" android:layout_width="-1" android:layout_height="180dp">
+                <ImageView android:id="0x7f10007d" android:background="0x7f0f0033" android:layout_width="-1" android:layout_height="-1" android:scaleType="6" />
+            </RelativeLayout>
+            <View android:background="0x7f0f0037" android:layout_width="-1" android:layout_height="1dp" />
+            <LinearLayout android:orientation="1" android:background="0x7f0f001a" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="17sp" android:textColor="0x7f0f006f" android:id="0x7f10007e" android:background="0x7f0f00a1" android:paddingLeft="10dp" android:layout_width="-2" android:layout_height="-2" android:text="cantact name" android:shadowDx="2.0" android:shadowDy="2.0" android:shadowRadius="2.0" />
+                <TextView android:textSize="13sp" android:textColor="0x7f0f006f" android:id="0x7f10007f" android:background="0x7f0f00a1" android:paddingLeft="10dp" android:layout_width="-2" android:layout_height="-2" android:text="phone number" android:shadowDx="2.0" android:shadowDy="2.0" android:shadowRadius="2.0" />
+            </LinearLayout>
+            <View android:background="0x7f0f0037" android:layout_width="-1" android:layout_height="1dp" />
+            <LinearLayout android:orientation="0" android:background="0x7f0f004e" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0f0047" android:gravity="11" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f090074" android:singleLine="true" android:layout_weight="1.0" />
+                <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0f0047" android:gravity="11" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f090068" android:singleLine="true" android:layout_weight="1.0" />
+                <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0f0047" android:gravity="11" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f090079" android:singleLine="true" android:layout_weight="1.0" />
+            </LinearLayout>
+            <RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+                <app.view.UnScrollableListView android:id="0x7f100080" android:background="0x7f0f004e" android:visibility="0" android:layout_width="-1" android:layout_height="150dp" />
+                <ProgressBar android:id="0x7f100081" android:visibility="0" android:layout_width="-2" android:layout_height="-1" android:layout_centerInParent="true" />
+            </RelativeLayout>
+        </LinearLayout>
+    </parallaxedScrollView.ParallaxScrollView>
+    <View android:id="0x7f10007c" android:background="0x7f0f0037" android:layout_width="-1" android:layout_height="1dp" android:layout_above="0x7f100082" />
+    <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f100082" android:background="0x7f0f001a" android:paddingTop="10dp" android:paddingBottom="15dp" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false" android:layout_alignParentBottom="true"
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f100083" android:visibility="2" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020122" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+            <TextView android:textSize="12sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:text="0x7f090055" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f100084" android:visibility="2" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020120" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+            <TextView android:textSize="12sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:text="0x7f090053" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f100085" android:visibility="2" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020123" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+            <TextView android:textSize="12sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:text="0x7f0901a9" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f100086" android:visibility="2" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020123" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+            <TextView android:textSize="12sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:text="0x7f09018b" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f100087" android:visibility="2" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f02011a" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+            <TextView android:textSize="12sp" android:textStyle="1" android:textColor="0x7f0f0039" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:text="0x7f090056" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

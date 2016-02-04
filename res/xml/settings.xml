@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="Settings">
+        <Preference android:icon="0x7f020086" android:title="Clear History" />
+        <Preference android:icon="0x7f020087" android:title="Logout" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="extra_menu_texts">
+        <item>گرفتن عکس</item>
+        <item>انتخاب عکس</item>
+        <item>انتخاب فیلم</item>
+        <item>ارسال موقعیت مکانی</item>
+        <item>ضبط صدا</item>
+    </string-array>
+</resources>

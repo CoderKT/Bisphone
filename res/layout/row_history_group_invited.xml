@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f100248" android:background="0x7f020171" android:padding="4dp" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="0" android:id="0x7f100249" android:visibility="0" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false">
+        <include android:layout_gravity="10" android:id="0x7f10024a" android:layout_width="64dp" android:layout_height="64dp" android:layout_marginRight="4dp" layout="0x7f03004a" />
+        <LinearLayout android:orientation="1" android:paddingTop="4dp" android:layout_width="0dp" android:layout_height="-2" android:layout_marginRight="4dp" android:layout_weight="1.0">
+            <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="16sp" android:textStyle="1" android:gravity="11" android:id="0x7f10024b" android:layout_width="-1" android:layout_height="-2" android:minHeight="20dp" android:text="0x7f0900db" android:singleLine="true" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="14sp" android:textColor="0x7f0f0040" android:gravity="11" android:id="0x7f10024d" android:layout_width="-1" android:layout_height="-2" android:minHeight="40dp" android:text="0x7f0900dd" android:maxLines="2" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:id="0x7f100250" android:visibility="1" android:layout_width="-1" android:layout_height="-1">
+        <Button android:id="0x7f100252" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f0901a0" android:layout_weight="1.0" style="?unknown_attr_ref: 101032f" />
+        <Button android:id="0x7f100253" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f090110" android:layout_weight="1.0" style="?unknown_attr_ref: 101032f" />
+        <Button android:id="0x7f100254" android:layout_width="0dp" android:layout_height="-1" android:text="@string/accept" android:layout_weight="1.0" style="?unknown_attr_ref: 101032f" />
+    </LinearLayout>
+</FrameLayout>

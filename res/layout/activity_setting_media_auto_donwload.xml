@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="-1">
+    <View android:layout_width="-1" android:layout_height="20dp" />
+    <LinearLayout android:id="0x7f100105" android:background="0x7f0f004e" android:layout_width="-1" android:layout_height="44dp">
+        <TextView android:textSize="16sp" android:textColor="0x7f0f009b" android:gravity="13" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="0x7f0901ac" android:layout_weight="1.0" />
+        <TextView android:id="0x7f100106" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="10dp" android:text="0x7f0901b0" />
+    </LinearLayout>
+    <View android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="1dp" />
+    <LinearLayout android:id="0x7f100107" android:background="0x7f0f004e" android:layout_width="-1" android:layout_height="44dp">
+        <TextView android:textSize="16sp" android:textColor="0x7f0f009b" android:gravity="13" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="0x7f0901ae" android:layout_weight="1.0" />
+        <TextView android:id="0x7f100108" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="10dp" android:text="0x7f0901b0" />
+    </LinearLayout>
+</LinearLayout>

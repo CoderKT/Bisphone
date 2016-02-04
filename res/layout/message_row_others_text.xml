@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="3" android:orientation="1" android:id="0x7f1001c6" android:background="0x7f0f00a1" android:paddingLeft="0x7f0c0067" android:paddingRight="0x7f0c0067" android:clickable="true" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="30" android:orientation="0" android:layout_width="-2" android:layout_height="-1">
+        <include android:id="0x7f10006c" android:layout_width="0x7f0c005b" android:layout_height="0x7f0c005b" layout="0x7f030044" />
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f1001c7" android:background="0x7f020073" android:longClickable="true" android:layout_width="0dp" android:layout_height="-2" android:layout_marginRight="72dp" android:minWidth="0x7f0c005f" android:minHeight="0x7f0c005e" android:layout_weight="1.0">
+            <include android:layout_gravity="3" android:id="0x7f1001cc" android:layout_width="-2" android:layout_height="-2" layout="0x7f03007b" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="10sp" android:textStyle="1" android:textColor="0x7f0f007c" android:layout_gravity="3" android:id="0x7f1001c9" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="2dp" android:layout_marginBottom="2dp" android:text="0x7f090138" android:singleLine="true" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="16sp" android:textColorLink="0x7f0f0039" android:autoLink="b" android:layout_gravity="3" android:id="0x7f1001c8" android:focusable="true" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0c006c" android:layout_marginRight="0x7f0c006c" android:minWidth="0x7f0c006d" android:text="0x7f090145" android:lineSpacingMultiplier="1.2" />
+            <include android:layout_width="-1" android:layout_height="0x7f0c0060" android:layout_marginTop="4dp" layout="0x7f030076" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

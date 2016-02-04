@@ -1,0 +1,25 @@
+version: 2.0.1
+apkFileName: bisphone_1.9.2(BaraTo.iR).apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '23'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '19200'
+  versionName: 1.9.2
+compressionType: false
+sharedLibrary: false
+unknownFiles:
+  org.jivesoftware.smack.extensions/extensions.xml: '8'
+  org.jivesoftware.smack.extensions/extensions.providers: '8'
+  org.jivesoftware.smack.tcp/smacktcp.providers: '8'
+  org.jivesoftware.smack.im/smackim.providers: '8'
+  org.jivesoftware.smack.im/smackim.xml: '8'
+  org.jivesoftware.smack/smack-config.xml: '8'
+  org.jivesoftware.smack/jul.properties: '8'
+  org.jivesoftware.smack/version: '8'

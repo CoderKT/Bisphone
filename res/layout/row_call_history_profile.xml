@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="1" android:id="0x7f100216" android:background="0x7f0f004e" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+        <View android:background="0x7f0f0037" android:layout_width="-1" android:layout_height="1dp" />
+        <TextView android:textSize="13sp" android:textStyle="1" android:textColor="0x7f0f0047" android:gravity="11" android:id="0x7f100215" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-2" android:text="Today" />
+        <View android:background="0x7f0f0037" android:layout_width="-1" android:layout_height="1dp" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:id="0x7f100214" android:background="0x7f0f004e" android:padding="4dp" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false"
+        <LinearLayout android:layout_gravity="1" android:orientation="0" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <ImageView android:gravity="11" android:id="0x7f100217" android:layout_width="32dp" android:layout_height="20dp" android:src="0x7f0200ea" />
+            <TextView android:textSize="12sp" android:textColor="0x7f0f0047" android:layout_gravity="10" android:id="0x7f100218" android:layout_width="-2" android:layout_height="-2" android:text="0x7f09006d" android:singleLine="true" />
+        </LinearLayout>
+        <TextView android:textSize="12dp" android:textColor="0x7f0f0047" android:gravity="11" android:layout_gravity="11" android:id="0x7f100219" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f090146" android:singleLine="true" android:layout_weight="1.0" />
+        <TextView android:textSize="12sp" android:textColor="0x7f0f0047" android:gravity="11" android:layout_gravity="11" android:id="0x7f10021a" android:layout_width="0dp" android:layout_height="-2" android:minHeight="20dp" android:text="0x7f090292" android:singleLine="true" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

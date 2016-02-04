@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:id="0x7f1000f2" android:background="0x7f0f004e" android:layout_width="-1" android:layout_height="44dp">
+        <TextView android:textSize="16sp" android:textColor="0x7f0f009b" android:gravity="10" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="0x7f0901d9" />
+    </RelativeLayout>
+    <View android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="1dp" />
+    <TextView android:textSize="14sp" android:textColor="0x7f0f0099" android:gravity="10" android:background="0x7f0f0098" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:text="0x7f0901cd" />
+    <RelativeLayout android:id="0x7f1000f3" android:background="0x7f0f004e" android:visibility="2" android:layout_width="-1" android:layout_height="44dp">
+        <TextView android:textSize="16sp" android:textColor="0x7f0f009b" android:gravity="10" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="0x7f0901c4" />
+    </RelativeLayout>
+    <View android:background="0x7f0f0098" android:visibility="2" android:layout_width="-1" android:layout_height="1dp" />
+    <TextView android:textSize="14sp" android:textColor="0x7f0f0099" android:background="0x7f0f0098" android:padding="8dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:text="0x7f0901c5" />
+    <RelativeLayout android:id="0x7f1000f4" android:background="0x7f0f004e" android:layout_width="-1" android:layout_height="44dp">
+        <TextView android:textSize="16sp" android:textColor="0x7f0f009b" android:gravity="10" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="0x7f0901d7" />
+    </RelativeLayout>
+    <TextView android:textSize="14sp" android:textColor="0x7f0f0099" android:background="0x7f0f0098" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:minHeight="55dp" android:text="0x7f0901c7" />
+</LinearLayout>

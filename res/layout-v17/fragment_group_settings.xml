@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_margin="12dp">
+        <include android:id="0x7f10006c" android:layout_width="80dp" android:layout_height="80dp" android:layout_marginRight="8dp" android:layout_marginEnd="8dp" layout="0x7f03004a" />
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:minHeight="80dp">
+            <EditText android:textAppearance="?unknown_attr_ref: 1010042" android:gravity="11" android:layout_gravity="11" android:id="0x7f100173" android:layout_width="-1" android:layout_height="-2" android:minHeight="32dp" android:hint="0x7f0900e6" android:inputType="82001" android:imeOptions="10000000" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="12sp" android:gravity="11" android:id="0x7f100174" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:minHeight="48dp" android:text="0x7f0900cb" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:gravity="10" android:id="0x7f100175" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:minHeight="32dp" android:text="0x7f0900e4" />
+    <View android:background="0x7f0f0040" android:layout_width="-1" android:layout_height="1dp" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" />
+    <RelativeLayout android:layout_width="-1" android:layout_height="0dp" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_weight="1.0">
+        <ListView android:id="0x7f1000d4" android:clickable="true" android:layout_width="-1" android:layout_height="-1" />
+        <ProgressBar android:id="0x7f100176" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

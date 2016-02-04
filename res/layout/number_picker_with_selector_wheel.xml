@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <view app:textAppearance="?unknown_attr_ref: 1010041" app:textColor="?unknown_attr_ref: 1010036" app:ellipsize="3" app:gravity="11" app:id="0x7f1001f4" app:background="@styleable/StickyListHeadersListView_android_scrollbarStyle" app:focusable="false" app:layout_width="-1" app:layout_height="-2" app:singleLine="true" app:editable="false" app:selectionDivider="0x7f020180" class="net.simonvt.numberpicker.NumberPicker$CustomEditText" />
+</merge>

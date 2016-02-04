@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:orientation="1" android:background="0x7f0f004e" android:layout_width="-1" android:layout_height="-1">
+        <ImageView android:id="0x7f10008a" android:layout_width="-1" android:layout_height="110dp" android:src="0x7f02008f" android:scaleType="6" />
+        <TextView android:textSize="13dp" android:textColor="0x7f0f0020" android:gravity="10" android:id="0x7f10008b" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="4dp" android:text="0x7f090082" android:layout_toRightOf="0x7f10008d" android:layout_below="0x7f10008c" />
+        <View android:background="0x7f0f0022" android:layout_width="-1" android:layout_height="1dp" android:layout_below="0x7f10008a" />
+        <include android:layout_gravity="10" android:id="0x7f10008d" android:layout_width="92dp" android:layout_height="92dp" android:layout_marginLeft="10dp" android:layout_marginTop="88dp" android:layout_marginRight="4dp" layout="0x7f030047" />
+        <me.grantland.widget.AutofitTextView android:textSize="18sp" android:textColor="0x7f0f006f" android:id="0x7f10008c" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="10dp" android:layout_marginRight="5dp" android:singleLine="true" android:layout_toRightOf="0x7f10008d" android:layout_below="0x7f10008a" />
+        <RelativeLayout android:layout_gravity="11" android:orientation="0" android:id="0x7f10008e" android:background="0x7f02008d" android:layout_width="120dp" android:layout_height="38dp" android:layout_marginTop="80dp" android:layout_marginRight="10dp" android:layout_marginBottom="4dp" android:layout_below="0x7f10008a" android:layout_alignParentRight="true">
+            <ProgressBar android:id="0x7f10008f" android:visibility="0" android:layout_width="24dp" android:layout_height="24dp" android:layout_centerInParent="true" />
+            <TextView android:textSize="13dp" android:textColor="0x7f0f0025" android:gravity="11" android:layout_gravity="11" android:id="0x7f100090" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f090080" />
+        </RelativeLayout>
+        <ImageView android:id="0x7f100091" android:layout_width="38dp" android:layout_height="38dp" android:layout_marginTop="80dp" android:layout_marginRight="140dp" android:src="0x7f0200f6" android:layout_below="0x7f10008a" android:layout_alignParentRight="true" />
+        <View android:id="0x7f100092" android:background="0x7f0f0022" android:layout_width="-1" android:layout_height="1dp" android:layout_marginTop="29dp" android:layout_below="0x7f10008e" />
+        <LinearLayout android:textColor="0x7f0f0020" android:orientation="1" android:background="0x7f0f0021" android:padding="8dp" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="10dp" android:layout_below="0x7f10008e">
+            <TextView android:textSize="16sp" android:textColor="0x7f0f006f" android:gravity="800013" android:layout_width="-1" android:layout_height="-2" android:text="0x7f09007e" />
+            <TextView android:textColor="0x7f0f0020" android:id="0x7f100093" android:background="0x7f0f0021" android:paddingBottom="10dp" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="10dp" android:lineSpacingExtra="3dp" />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

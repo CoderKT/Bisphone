@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <objectAnimator android:interpolator="0x10c0006" android:duration="0x7f0e0003" android:valueFrom="0" android:valueTo="180" android:propertyName="rotationY" />
+    <objectAnimator android:duration="1500" android:startOffset="0x7f0e0004" android:valueFrom="1.0" android:valueTo="0.0" android:propertyName="alpha" />
+</set>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.todddavies.components.progressbar.ProgressWheel ProgressWheel:id="0x7f1001e0" ProgressWheel:visibility="0" ProgressWheel:layout_width="58dp" ProgressWheel:layout_height="58dp" ProgressWheel:layout_centerInParent="true" ProgressWheel:textColor="0x7f0f004e" ProgressWheel:barColor="0x7f0f008b" ProgressWheel:rimColor="0x7f0f0032" ProgressWheel:rimWidth="3dp" ProgressWheel:barWidth="3dp" ProgressWheel:contourColor="0x7f0f006f" ProgressWheel:contourSize="0dp" />

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="5" android:orientation="1" android:id="0x7f1001c6" android:background="0x7f0f00a1" android:paddingLeft="0x7f0c0067" android:paddingRight="0x7f0c0067" android:clickable="true" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="30" android:orientation="0" android:layout_width="-2" android:layout_height="-1" android:baselineAligned="false"
+        <LinearLayout android:gravity="51" android:orientation="1" android:id="0x7f1001c7" android:background="0x7f02007d" android:longClickable="true" android:layout_width="0dp" android:layout_height="-2" android:minWidth="0x7f0c005f" android:minHeight="0x7f0c005e" android:layout_weight="1.0">
+            <include android:layout_gravity="3" android:id="0x7f1001cc" android:layout_width="160dp" android:layout_height="-2" layout="0x7f03007b" />
+            <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+                <RelativeLayout android:layout_gravity="10" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="4dp">
+                    <ImageView android:id="0x7f1001cd" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:src="0x7f020105" android:layout_centerInParent="true" />
+                    <ProgressBar android:id="0x7f10011e" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:indeterminate="true" android:indeterminateDrawable="0x7f02016f" android:layout_centerInParent="true" />
+                    <ImageView android:id="0x7f1001ce" android:visibility="0" android:layout_width="-1" android:layout_height="-1" android:src="0x7f020107" android:layout_centerInParent="true" />
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:textSize="18dp" android:gravity="11" android:id="0x7f1001cf" android:background="0x7f020105" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:text="0x7f090291" android:layout_centerInParent="true" />
+                    <ImageView android:id="0x7f1001d0" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:src="0x7f020109" android:layout_centerInParent="true" />
+                    <ImageView android:id="0x7f1001d1" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:src="0x7f020106" android:layout_centerInParent="true" />
+                </RelativeLayout>
+                <LinearLayout android:orientation="1" android:layout_width="120dp" android:layout_height="48dp">
+                    <SeekBar android:layout_gravity="10" android:id="0x7f1001d2" android:visibility="0" android:layout_width="-1" android:layout_height="31dp" android:layout_marginLeft="2dp" />
+                    <include android:layout_width="-1" android:layout_height="0x7f0c0060" android:layout_marginLeft="8dp" android:layout_marginTop="4dp" layout="0x7f030077" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <include android:id="0x7f10006c" android:layout_width="0x7f0c005b" android:layout_height="0x7f0c005b" layout="0x7f030044" />
+    </LinearLayout>
+</LinearLayout>

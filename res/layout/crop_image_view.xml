@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <ImageView android:id="@id/ImageView_image" android:layout_width="-1" android:layout_height="-1" android:scaleType="7" android:adjustViewBounds="true" />
+    <com.edmodo.cropper.cropwindow.CropOverlayView android:id="@id/CropOverlayView" android:layout_width="-1" android:layout_height="-1" />
+</merge>

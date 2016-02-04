@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="0x7f100099" android:layout_width="-2" android:layout_height="-2" android:layout_margin="16dp" />
+</RelativeLayout>

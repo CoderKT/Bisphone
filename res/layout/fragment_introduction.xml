@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="1" android:layout_width="-1" android:layout_height="-1">
+    <FrameLayout android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="30dp" android:layout_above="0x7f100179">
+        <RelativeLayout android:layout_gravity="11" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:id="0x7f10013b" android:layout_width="150dp" android:layout_height="150dp" android:src="0x7f02006c" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="25sp" android:gravity="11" android:id="0x7f10013d" android:layout_width="-2" android:layout_height="-2" android:text="0x7f090034" android:layout_below="0x7f10013b" android:layout_centerHorizontal="true" android:textIsSelectable="false" />
+            <TextView android:textSize="14sp" android:gravity="11" android:id="0x7f10017a" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:layout_marginTop="5dp" android:layout_marginRight="40dp" android:text="0x7f090032" android:layout_below="0x7f10013d" android:lineSpacingMultiplier="1.0" />
+        </RelativeLayout>
+    </FrameLayout>
+    <Button android:id="0x7f100179" android:text="0x7f090202" style="0x7f0d0104" />
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="-1">
+    <ExpandableListView android:id="0x7f10005f" android:layout_width="-1" android:layout_height="-1" android:groupIndicator="@styleable/StickyListHeadersListView_android_scrollbarStyle" android:childDivider="0x7f0f00a1" android:divider="0x7f0f00a1" />
+    <ProgressBar android:id="0x7f100060" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" android:layout_centerInParent="true" />
+    <RelativeLayout android:id="0x7f100061" android:layout_width="-1" android:layout_height="-1">
+        <ImageView android:id="0x7f100062" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c0" android:layout_centerInParent="true" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="18sp" android:textColor="0x7f0f009b" android:gravity="11" android:id="0x7f100063" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="24dp" android:text="0x7f09005d" android:layout_below="0x7f100062" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

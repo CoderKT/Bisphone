@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:background="0x7f0f0033" android:layout_width="-1" android:layout_height="-1">
+    <GridView android:layout_gravity="30" android:id="0x7f1001b6" android:background="#aaa" android:layout_width="-1" android:layout_height="-1" android:numColumns="2" android:dividerHeight="0dp" />
+    <GridView android:layout_gravity="30" android:id="0x7f1001b7" android:background="0x7f0f004e" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:horizontalSpacing="5dp" android:verticalSpacing="5dp" android:stretchMode="2" android:numColumns="4" />
+    <LinearLayout android:orientation="1" android:id="0x7f1001b8" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true">
+        <ImageView android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200fa" />
+        <TextView android:textSize="22sp" android:gravity="11" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="40dp" android:layout_marginRight="10dp" android:text="0x7f090156" android:layout_marginStart="10dp" android:layout_marginEnd="10dp" />
+    </LinearLayout>
+</RelativeLayout>

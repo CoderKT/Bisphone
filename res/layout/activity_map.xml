@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <fragment android:name="app.location.CustomMapFragment" android:id="0x7f1000c2" android:layout_width="-1" android:layout_height="-1" />
+    <FrameLayout android:id="0x7f1000c3" android:background="#000000" android:padding="2dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_margin="3dp">
+        <ImageView android:id="0x7f1000c4" android:layout_width="-2" android:layout_height="-2" />
+    </FrameLayout>
+    <LinearLayout android:gravity="5" android:orientation="0" android:background="0x7f020104" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="16dp" android:layout_marginRight="11dp" android:layout_alignParentRight="true" android:alpha="0.8">
+        <ImageView android:id="0x7f1000c5" android:background="0x7f0f003f" android:padding="8dp" android:visibility="0" android:layout_width="37dp" android:layout_height="37dp" android:src="0x7f020101" />
+        <View android:background="0x7f0f003e" android:layout_width="1dp" android:layout_height="37dp" />
+        <ImageView android:id="0x7f1000c6" android:background="0x7f0f003f" android:padding="8dp" android:visibility="0" android:layout_width="37dp" android:layout_height="37dp" android:src="0x7f020103" />
+    </LinearLayout>
+</RelativeLayout>

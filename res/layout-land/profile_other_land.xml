@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:orientation="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <RelativeLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="2.0">
+                <ImageView android:id="0x7f1001f5" android:layout_width="-1" android:layout_height="-1" android:src="0x7f020058" android:scaleType="1" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+                <View android:background="0x7f0f0028" android:layout_width="-1" android:layout_height="-1" android:alpha="0.9" />
+                <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_margin="0x7f0c0010">
+                    <include android:id="0x7f1001f6" android:layout_width="0x7f0c000f" android:layout_height="0x7f0c000f" layout="0x7f030042" />
+                    <TextView android:textColor="0x7f0f004e" android:gravity="11" android:layout_gravity="11" android:id="0x7f1001f7" android:layout_width="-1" android:layout_height="0x7f0c0011" android:layout_marginTop="4dp" android:layout_marginBottom="5dp" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <TextView android:textSize="16sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_gravity="11" android:id="0x7f10007e" android:layout_width="-1" android:layout_height="0x7f0c0011" android:layout_marginTop="8dp" />
+            <RelativeLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp">
+                <Spinner android:id="0x7f1001f8" android:background="@styleable/StickyListHeadersListView_android_scrollbarStyle" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" android:dropDownWidth="-1" />
+                <TextView android:textSize="15sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:id="0x7f1001f9" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-1"
+                <LinearLayout android:gravity="11" android:layout_gravity="10" android:orientation="1" android:id="0x7f100083" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                    <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020122" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+                    <TextView android:textSize="15sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="6dp" android:text="0x7f090055" />
+                </LinearLayout>
+                <LinearLayout android:gravity="11" android:layout_gravity="10" android:orientation="1" android:id="0x7f100084" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                    <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020120" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+                    <TextView android:textSize="15sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="6dp" android:text="0x7f090053" />
+                </LinearLayout>
+                <LinearLayout android:gravity="11" android:layout_gravity="10" android:orientation="1" android:id="0x7f100085" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                    <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020123" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+                    <TextView android:textSize="15sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="6dp" android:text="0x7f0901a9" />
+                </LinearLayout>
+                <LinearLayout android:gravity="11" android:layout_gravity="10" android:orientation="1" android:id="0x7f100086" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                    <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020121" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+                    <TextView android:textSize="15sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="6dp" android:text="0x7f090113" />
+                </LinearLayout>
+                <LinearLayout android:gravity="11" android:layout_gravity="10" android:orientation="1" android:id="0x7f100087" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                    <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f02011a" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+                    <TextView android:textSize="15sp" android:textStyle="1" android:textColor="0x7f0f0033" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:text="0x7f090056" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="0x7f1001fa" android:background="0x7f0f0028" android:visibility="1" android:layout_width="-1" android:layout_height="-1" android:src="0x7f020058" android:layout_centerInParent="true" android:contentDescription="@styleable/StickyListHeadersListView_android_scrollbarStyle" />
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="1" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:id="0x7f1001a0" android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="5dp" android:layout_above="0x7f10019f">
+        <RelativeLayout android:id="0x7f100192" android:paddingTop="0x7f0c004d" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="-1" android:layout_height="-1">
+            <TextView android:textSize="16sp" android:gravity="11" android:id="0x7f10013d" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="20dp" android:layout_marginRight="10dp" android:text="0x7f0900b3" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            <EditText android:ellipsize="3" android:id="0x7f1001a1" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginTop="40dp" android:layout_marginRight="20dp" android:hint="0x7f0901ff" android:singleLine="true" android:editable="false" android:layout_below="0x7f10013d" android:layout_centerHorizontal="true" />
+            <EditText android:id="0x7f1001a2" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:editable="false" android:layout_below="0x7f1001a1" android:layout_alignLeft="0x7f1001a1" />
+            <EditText android:id="0x7f1001a3" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginRight="20dp" android:hint="0x7f090200" android:maxLength="14" android:layout_toRightOf="0x7f1001a2" android:layout_below="0x7f1001a1" android:inputType="2" android:imeOptions="10000004" />
+        </RelativeLayout>
+    </ScrollView>
+    <Button android:id="0x7f10019f" android:text="0x7f09014b" style="0x7f0d0104" />
+</RelativeLayout>

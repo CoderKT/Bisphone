@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:icon="0x7f0200d5" android:id="0x7f100287" android:titleCondensed="Delete" android:showAsAction="5" />
+</menu>

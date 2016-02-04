@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="11" android:orientation="1" android:id="0x7f1001e3" android:paddingTop="6dp" android:layout_width="-1" android:layout_height="-2">
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textSize="10sp" android:textStyle="1" android:textColor="0x7f0f004e" android:layout_gravity="11" android:id="0x7f1001e4" android:background="0x7f02007e" android:paddingLeft="15dp" android:paddingTop="3dp" android:paddingRight="15dp" android:paddingBottom="3dp" android:layout_width="-2" android:layout_height="-2" android:text="Timestamp" />
+</LinearLayout>

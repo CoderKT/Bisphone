@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:background="0x7f0f0098" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:orientation="0" android:paddingLeft="8dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="20dp">
+            <RelativeLayout android:layout_gravity="11" android:layout_width="100dp" android:layout_height="100dp">
+                <include android:id="0x7f100064" android:layout_width="-1" android:layout_height="-1" android:src="0x7f02005d" android:scaleType="6" android:layout_centerInParent="true" layout="0x7f03004a" />
+                <TextView android:textSize="15sp" android:textColor="0x7f0f004e" android:gravity="11" android:id="0x7f100065" android:background="0x7f02005a" android:visibility="2" android:layout_width="-1" android:layout_height="30dp" android:text="0x7f0901ec" android:layout_alignParentBottom="true" />
+            </RelativeLayout>
+            <EditText android:textColor="0x7f0f009b" android:ellipsize="3" android:gravity="11" android:layout_gravity="10" android:id="0x7f100066" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:singleLine="true" android:maxLength="20" android:imeOptions="10000000">
+                <requestFocus />
+            </EditText>
+        </LinearLayout>
+        <RelativeLayout android:orientation="0" android:paddingTop="30dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="15sp" android:textColor="0x7f0f0099" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="8dp" android:text="0x7f090062" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="15sp" android:textColor="0x7f0f0099" android:id="0x7f100067" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="8dp" android:layout_alignParentRight="true" />
+            <app.view.CustomRecycleView android:id="0x7f100068" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="8dp" android:layout_below="0x7f100067" />
+            <ProgressBar android:id="0x7f100069" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+            <Button android:textSize="16sp" android:textColor="0x7f0f004e" android:gravity="11" android:id="0x7f10006a" android:background="0x7f0f006a" android:layout_width="-1" android:layout_height="50dp" android:text="0x7f090059" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ImageView android:id="0x7f10006b" android:background="0x106000c" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:layout_centerInParent="true" />
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <ImageView android:id="0x7f10025f" android:layout_width="-1" android:layout_height="120dp" android:scaleType="6" android:layout_alignParentTop="true" />
+    <CheckBox android:enabled="false" android:id="0x7f100260" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:button="0x7f020090" />
+</RelativeLayout>

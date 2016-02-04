@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <SurfaceView android:id="0x7f100120" android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0" />
+    <Button android:id="0x7f100121" android:background="0x7f020100" android:layout_width="-2" android:layout_height="-2" />
+</RelativeLayout>
